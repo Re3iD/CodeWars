@@ -1,0 +1,14 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "it's codewars kata's with test's",
+  "main": "practice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Re3iD",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
